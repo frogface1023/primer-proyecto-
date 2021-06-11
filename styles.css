@@ -1,0 +1,84 @@
+.h1{
+    color: rgb(36, 219, 149);
+text-align: center;
+background-color:rgb(0, 0, 0);
+font-size: 50px;
+font-family: 'Goblin One', cursive;
+}
+.body1{color: mediumpurple;
+}
+
+.info{color: lightseagreen;
+}
+.menu{ display: flex;
+text-align: end;
+    height: 80px;
+    align-items: center;
+   
+}
+    .menu li{list-style: none;
+ margin-left: 30px; 
+ margin-right: 30px;  
+  
+ 
+}
+    nav{background-color: rgb(105, 238, 88);
+        height: 80px;
+     align-items: center;
+        
+    
+    }
+  .input{
+      border:2px cornflowerblue solid;
+      font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+      width: 50%;
+      }
+      .div{
+          margin-top: 5px;
+      }
+      .boton{
+          text-align: center;
+          margin-top: 20px;
+      }
+      .contacto{
+          font-family: fantasy;
+          color: deepskyblue;
+      }
+      .from{
+          text-align: 100%;
+          width: 50%;
+          margin-left: 20%;     
+        }
+        .fecha{
+            border: 2px cornflowerblue solid;
+            font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+            width: 25%;
+        }
+
+.imagen{
+text-align: start;
+width: 25%;
+
+}
+.div2{
+    margin-top: 20xp;
+}
+
+.nombre{
+    text-align: right;
+    width: 40%;
+margin-top: 50xp;
+}
+.abuelo{
+    display: flex   ;
+}
+.imagenonepiece{
+    display: flex;
+    justify-content: space-around;
+
+
+
+}
+.imagenesonepiece div{
+width: 50%;
+}
